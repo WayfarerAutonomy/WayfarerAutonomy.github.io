@@ -8,7 +8,7 @@ const HeroSection = () => {
       <div className="absolute inset-0 z-0">
         <img
           src={heroImage}
-          alt="Foundra Robotics precision actuator on technical blueprint"
+          alt="Wayfarer Autonomy precision actuator on technical blueprint"
           className="w-full h-full object-cover opacity-20"
         />
         <div className="absolute inset-0 bg-background/60" />
@@ -19,10 +19,9 @@ const HeroSection = () => {
         <div className="grid-container">
           <div className="col-span-12 flex justify-between items-center border-b border-border pb-4">
             <div className="flex flex-col gap-0.5">
-              <span className="text-primary font-bold text-xl leading-none tracking-wide">FOUNDRA</span>
-              <span className="font-light text-sm leading-none tracking-[0.2em] text-foreground">Robotics</span>
+              <span className="text-primary font-bold text-xl leading-none tracking-wide">WAYFARER</span>
+              <span className="font-light text-sm leading-none tracking-[0.2em] text-foreground">Autonomy</span>
             </div>
-            <p className="text-technical">[ STATUS: ACTIVE ]</p>
           </div>
         </div>
       </div>

@@ -3,5 +3,5 @@
     @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&amp;display=swap');
   </style>
   <rect width="64" height="64" rx="12" fill="hsl(142, 70%, 50%)"/>
-  <text x="32" y="47" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="42" text-anchor="middle" fill="#001a05">F</text>
+  <text x="32" y="47" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="42" text-anchor="middle" fill="#001a05">W</text>
 </svg>
